@@ -8,7 +8,7 @@
    
   <h5>(a continuación una foto de mi deporte, para que me conozcais un poquito más)</h5>
   
-  <a href= https://www.youtube.com/watch?v=KQUXkXLzBS8>![calistenia](calistenia.png)</a>
+![calistenia](calistenia.png) 
   
  <hr>
  
