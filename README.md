@@ -4,7 +4,7 @@
      <p>lo que hay en esta repositorio, para orientaros</p><h2>
   <h5>(a continuación una foto de mi deporte, para que me conozcais un poquito más)</h5>
   ![calistenia](calistenia.png)
- 
+ <hr>
  
  
  
