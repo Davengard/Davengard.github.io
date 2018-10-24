@@ -8,6 +8,5 @@
  
  
  
- <p><h3><a href=https://davengard.wordpress.com/>Aquí tenéis mi blog</a>, donde subiré</p>
-                                              <p>cosas relacionadas con la informática</p>
-                                                 hasta crear un server DNS o DHCP :)</h3>
+ <p><h3><a href=https://davengard.wordpress.com/>Aquí tenéis mi blog</a>, donde subiré cosas relacionadas con la informática</p>
+ hasta crear un server DNS o DHCP :)</h3>
