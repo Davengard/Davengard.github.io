@@ -2,7 +2,6 @@ hr {
 	border: 2px solid khaki; height: 2px; background-color: darkkhaki;
 	}
 	
-.imagen:hover {filter: blur(5px);border-style: groove;}
 
 
 @font-face {
