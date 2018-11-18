@@ -1,8 +1,12 @@
 hr {
 	border: 2px solid khaki; height: 2px; background-color: darkkhaki;
 	}
-	
 
+.texto{
+	text-align: center;
+	color: yellow;
+	font-family: Verdana;
+}
 
 @font-face {
   font-family: 'Monoton';

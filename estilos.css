@@ -14,9 +14,24 @@ html {
   font-weight: 300;
   color: #fff;
 }
+.texto1{
+font-family: Verdana;
+color: red;
+text-align: left;
+padding: 30px;
+}
 
+.his1{
+  font-family: Verdana;
+  color: green;
+}
+.his2{
+  font-family: Verdana;
+  color: green;
+  text-align: center;
+}
 section {
-  background: Red;
+  background: black;
   width: 80vw;
   max-width: 40rem;
   min-width: 390px;
@@ -49,7 +64,7 @@ h2 {
   font-size: 2.5rem;
   font-weight: 600;
   text-align: center;
-  color: black;
+  color: red;
 }
 body > h2 {height: auto;}
 h2 img {
@@ -79,7 +94,7 @@ footer li {
   width: 20%;
   text-align: center;
   font-size: 3rem;
-  font-weight: 100;  
+  font-weight: 100;
 }
 footer li::before {
 	display: block;
@@ -160,7 +175,7 @@ label:before {
 #tarefas:checked ~ .catro {
   display: block;
   transform: scale(1);
-  transition-delay: .5s; 
+  transition-delay: .5s;
 }
 a {color: black)}
 a:hover {color: black}
